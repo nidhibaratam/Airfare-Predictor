@@ -18,5 +18,5 @@ Thank you for your interest in contributing! This guide will help you get starte
 
 4. **Clone your fork locally**  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
+   git clone [https://github.com/nidhibaratam/Airfare-Predictor](https://github.com/nidhibaratam/Airfare-Predictor)
+   cd Airfare-Predictor
