@@ -28,7 +28,7 @@ Flight durations were standardized for consistent analysis across different rout
 
 ### Predicting Airfares: The Machine Learning Model
 
-A robust machine learning regression model (such as Random Forest or XGBoost) was chosen for its ability to learn complex patterns in the data.
+A robust machine learning regression model  was chosen for its ability to learn complex patterns in the data.
 This model was trained on the Goibibo dataset to predict airfares for various city pairs in India.
 
 ### Evaluating Performance: Gauging Prediction Accuracy
